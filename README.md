@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Pete Quinones IV</h1>
-<h3 align="center">Builder documenting the journey from line cook → systems builder.</h3>
+<h3 align="center">Builder documenting the journey from line cook → system builder.</h3>
 
 <p align="center">
 Building Kaizen Fuel Kitchen.
