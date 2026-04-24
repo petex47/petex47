@@ -2,7 +2,7 @@
 <h3 align="center">Builder documenting the journey from line cook → systems builder.</h3>
 
 <p align="center">
-Building Kaizen Fuel Kitchen, automation tools, and real-world systems.
+Building Kaizen Fuel Kitchen.
 </p>
 
 <p align="center">
